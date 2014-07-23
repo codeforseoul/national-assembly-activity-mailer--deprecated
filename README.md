@@ -8,6 +8,7 @@ Code for Seoul은 서울을 중심으로 기술을 통해 사회적 문제 해�
 #####지역구에 따른 국회의원 출석표 메일링 서비스를 제공하기 위해 준비 중입니다.
 ---
 **플라스크 환경 준비(local)**  
+플라스크 환경 준비는 코드를 받는 모든 분이 각각 하셔야 합니다.
 참고: http://flask.pocoo.org/docs/installation/#installation
 
 [Mac]  
