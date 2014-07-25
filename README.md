@@ -9,7 +9,13 @@ Code for Seoul은 서울을 중심으로 기술을 통해 사회적 문제 해�
 ---
 **플라스크 환경 준비(local)**  
 플라스크 환경 준비는 코드를 받는 모든 분이 각각 하셔야 합니다.
-참고: http://flask.pocoo.org/docs/installation/#installation
+참고: http://flask.pocoo.org/docs/installation/#installation  
+
+[Windows]  
+파이썬 설치: https://www.python.org/downloads/  
+easy_install을 설치해 주는 스크립트: http://python-distribute.org/distribute_setup.py  
+```C:\PythonScripts>python distribute_setup.py```  
+pip install virtualenv 여기부터는 같습니다(sudo만 빼고).  
 
 [Mac]  
 ```sudo easy_install virtualenv 또는 sudo pip install virtualenv```
